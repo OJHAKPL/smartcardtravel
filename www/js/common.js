@@ -137,7 +137,7 @@
 						} else {
 							localStorage.setItem('userid-travel-2', field.id);
 						}
-						//pushNotify();
+						pushNotify();
 						cardlist();
 					} else {
 						if(dataArray.error){
