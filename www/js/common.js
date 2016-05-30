@@ -47,12 +47,12 @@
 		//alert('push');
 		var push = PushNotification.init({ 
 		 "android": 
-		 {"senderID": "48866309941"}
-          } );
+		 {"senderID": "631697736181"}
+		} );
 
 		push.on('registration', function(data) {
 			var loginid='';
-			if (localStorage.getItem('userid')){
+			if (localStorage.getItem('userid-travel')){
 				loginid = localStorage.getItem('userid-travel');
 			} else{
 				loginid = localStorage.getItem('userid-travel-2');
