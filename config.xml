@@ -1,4 +1,4 @@
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.girishas.smartcardtravel" version="1.0.2">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.girishas.smartcardtravel" version="1.1.0">
   <name>Smartcard Travel</name>
   <description>Smartcard Travel</description>
   <author href="https://www.smartcardtravel.com" email="dev.girishas@gmail.com">GISLLP Team</author>
